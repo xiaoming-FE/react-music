@@ -18,10 +18,10 @@ npm start
 访问浏览器输入 http://localhost:3000 访问
 
 ### 备注
-本学习实践采用的主要技术版本：
-react               15.0.2
-react-router        2.0.0"
-react-hot-loader    3.0.0-beta.2
-webpack             1.13.0
-webpack-dev-server  1.14.1
+本学习实践采用的主要技术版本：<br />
+react: 15.0.2<br />
+react-router: 2.0.0"<br />
+react-hot-loader: 3.0.0-beta.2<br />
+webpack: 1.13.0<br />
+webpack-dev-server: 1.14.1
 
