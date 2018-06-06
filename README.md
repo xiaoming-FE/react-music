@@ -15,6 +15,8 @@ npm build
 npm start
 ```
 
+访问浏览器输入 http://localhost:3000 访问
+
 ### 备注
 本学习实践采用的主要技术版本：
 react               15.0.2
